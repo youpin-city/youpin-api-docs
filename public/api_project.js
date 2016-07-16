@@ -1,0 +1,1 @@
+define({  "name": "YouPin API",  "version": "0.1.0",  "description": "REST API for YouPin.city",  "title": "YouPin.city REST API",  "url": "http://api.youpin.city",  "sampleUrl": false,  "apidoc": "0.2.0",  "generator": {    "name": "apidoc",    "time": "2016-07-16T19:43:41.506Z",    "url": "http://apidocjs.com",    "version": "0.16.1"  }});
